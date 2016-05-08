@@ -92,15 +92,15 @@ STLcdNumber9Color => STLcdNumber9Color_define;
 #STLcdNumber9Color = "0x09CA, 0x12D3, 0x8484"; # Red Bull Blue        #0D19B0
 #STLcdNumber0Color = "0xB939, 0xAAEA, 0x8D8D"; # Butter Cow Off-white #F6E3BC
 
-STLcdNumber1Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber2Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber3Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber4Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber5Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber6Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber7Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber8Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
-STLcdNumber9Color = "0x0000, 0x8242, 0xB3F3"; # Smart Water Blue     #00ADEF
+STLcdNumber1Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber2Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber3Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber4Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber5Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber6Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber7Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber8Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
+STLcdNumber9Color = "0x0000, 0x00FF, 0x00FF"; # Smart Water Blue     #00ADEF
 STLcdNumber0Color = "0xB939, 0xAAEA, 0x8D8D"; # Butter Cow Off-white #F6E3BC
 
 
